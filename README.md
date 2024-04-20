@@ -50,6 +50,7 @@
 ## 快速开始
 
 *1.下载模型UnicomLLM/Unichat-llama3-Chinese-8B
+
 *2.执行python3 ./inference.py
 
 
