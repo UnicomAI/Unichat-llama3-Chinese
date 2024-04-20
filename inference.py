@@ -2,7 +2,7 @@ import transformers
 from transformers import AutoTokenizer, AutoModelForCausalLM
 import torch
 
-model_id = "UnicomLLM/Unichat-llama3-Chinese-8B"
+model_id = "UnicomAI/Unichat-llama3-Chinese" #"UnicomLLM/Unichat-llama3-Chinese-8B"
 
 pipeline = transformers.pipeline(
     "text-generation",
