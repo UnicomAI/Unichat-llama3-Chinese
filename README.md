@@ -15,7 +15,9 @@
 * 中国联通AI创新中心发布业界第一个llama3中文指令微调模型，2024年4月19日22点
 * 本模型以[**Meta Llama 3**](https://huggingface.co/collections/meta-llama/meta-llama-3-66214712577ca38149ebb2b6)为基础,增加中文数据进行训练,实现llama3模型高质量中文问答
 * 模型支持原生长度为8K，原生长度64K版本将于后续发布
+* 陆续发布700亿参数中文微调版本，长文本版本和加入中文二次预训练版
 * 基础模型 [**Meta-Llama-3-8B**](https://huggingface.co/meta-llama/Meta-Llama-3-8B)
+  
 
 ### 📊 数据
 - 高质量指令数据，覆盖多个领域和行业，为模型训练提供充足的数据支持
