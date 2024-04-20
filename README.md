@@ -7,7 +7,7 @@
 [//]: # (</p>)
 
 <p align="center">
-        🤗 <a href="https://huggingface.co/UnicomLLM">Hugging Face</a>&nbsp&nbsp </a>
+        🤗 <a href="https://huggingface.co/UnicomLLM">Hugging Face</a>&nbsp&nbsp </a> <a href="[https://huggingface.co/UnicomLLM](https://www.modelscope.cn/models/UnicomAI/Unichat-llama3-Chinese)">ModelCcope</a>&nbsp&nbsp </a>
 </p>
 
 
@@ -60,9 +60,10 @@
 ## 模型下载
 
 ### Llama3中文模型
-| 模型名称                     | 🤗模型加载名称             | 下载地址                                                     |
+| 模型名称                     | 模型加载名称             | 下载地址                                                     |
 |--------------------------| ------------------------- | --------------------- |
 | Unichat-llama3-Chinese-8B | UnicomLLM/Unichat-llama3-Chinese-8B  | [HuggingFace](https://huggingface.co/UnicomLLM/Unichat-llama3-Chinese-8B)  |
+| Unichat-llama3-Chinese-8B | UnicomLLM/Unichat-llama3-Chinese-8B  | [ModelScope](https://www.modelscope.cn/models/UnicomAI/Unichat-llama3-Chinese/) |
 
 
 ### Llama3官方模型
