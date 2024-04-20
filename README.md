@@ -53,6 +53,7 @@
 
 2.执行python3 ./inference.py
 
+3.测试环境：transformers==4.39.3,torch==2.2.2
 
 ## 模型下载
 
@@ -89,5 +90,6 @@
 可使用以下框架, 对模型进行SFT, LoRA, DPO, PPO等方式的微调
 - [Axolotl](https://github.com/OpenAccess-AI-Collective/axolotl)
 - [Llama-Factory](https://github.com/hiyouga/LLaMA-Factory)
+
 
 
