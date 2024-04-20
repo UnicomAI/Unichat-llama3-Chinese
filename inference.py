@@ -40,5 +40,4 @@ outputs = pipeline(
         top_p=1,
         repetition_penalty=1.05
 )
-response = outputs[0][input_ids.shape[-1]:]
-print(tokenizer.decode(response, skip_special_tokens=True))
+print(outputs[0]["generated_text"][len(prompt):])
