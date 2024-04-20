@@ -11,9 +11,6 @@
 </p>
 
 
-# Unichat-llama3-Chinese-8B
-
-
 ## 介绍
 * 中国联通AI创新中心发布业界第一个llama3中文指令微调模型，2024年4月19日22点
 * 本模型以[**Meta Llama 3**](https://huggingface.co/collections/meta-llama/meta-llama-3-66214712577ca38149ebb2b6)为基础,增加中文数据进行训练,实现llama3模型高质量中文问答
