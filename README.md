@@ -105,7 +105,7 @@
 
 2.执行python3 ./inference.py
 
-3.测试环境：transformers==4.39.3,torch==2.2.2
+3.测试环境：transformers==4.37.0,torch==2.0.1
 
 ## 模型下载
 
