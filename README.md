@@ -99,13 +99,28 @@
 总之，通过将人工智能技术应用于医疗领域，可以帮助医生更好地诊断疾病，提高治疗效果，并降低医疗成本。
 <br>
 
+
+## 测试环境
+* python 3.8及以上版本
+* transformers==4.37.0
+* torch==2.0.1
+* CUDA 11.7
+
 ## 快速开始
 
-1.下载模型UnicomLLM/Unichat-llama3-Chinese-8B
+1. 下载模型[UnicomLLM/Unichat-llama3-Chinese-8B](https://huggingface.co/UnicomLLM/Unichat-llama3-Chinese-8B)
 
-2.执行python3 ./inference.py
+2. 环境安装
 
-3.测试环境：transformers==4.37.0,torch==2.0.1
+```bash
+pip install -r requirements.txt
+```
+
+3. 执行推理代码
+```bash
+python3 inference.py
+```
+
 
 ## 模型下载
 
