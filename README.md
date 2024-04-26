@@ -7,7 +7,7 @@
 [//]: # (</p>)
 
 <p align="center">
-         <a href="https://huggingface.co/UnicomLLM">Hugging Face</a>&nbsp&nbsp </a> <a href="https://www.modelscope.cn/models/UnicomAI/Unichat-llama3-Chinese">ModelScope</a>&nbsp&nbsp </a> <a href="https://www.wisemodel.cn/">ModelScope</a>&nbsp&nbsp </a>
+         <a href="https://huggingface.co/UnicomLLM">Hugging Face</a>&nbsp&nbsp </a> <a href="https://www.modelscope.cn/models/UnicomAI/Unichat-llama3-Chinese">WiseModele</a>&nbsp&nbsp </a> <a href="https://www.wisemodel.cn/">ModelScope</a>&nbsp&nbsp </a>
 </p>
 
 
