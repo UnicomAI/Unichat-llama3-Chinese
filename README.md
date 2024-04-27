@@ -120,13 +120,13 @@
 * torch==2.0.1
 * CUDA 11.7
 
-## 评测
+## 自主评测
 
 <div align="center">
   <img src="https://github.com/UnicomAI/Unichat-llama3-Chinese/blob/f91e9b65c99867f9b42bd4480132d1f622e433a2/eval.png">
 </div>
-
-## 快速开始
+* CUDA 11.7
+* 加入中文微调后，基础问答、写作、安全与价值观都有了一定提升
 
 1. 下载模型[UnicomLLM/Unichat-llama3-Chinese-8B](https://huggingface.co/UnicomLLM/Unichat-llama3-Chinese-8B)
 
