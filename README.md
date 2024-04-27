@@ -172,8 +172,9 @@ python3 inference.py
 
 ## 模型微调
 可使用以下框架, 对模型进行SFT, LoRA, DPO, PPO等方式的微调
-- [Axolotl](https://github.com/OpenAccess-AI-Collective/axolotl)
 - [Llama-Factory](https://github.com/hiyouga/LLaMA-Factory)
+- [Axolotl](https://github.com/OpenAccess-AI-Collective/axolotl)
+
 
 
 
