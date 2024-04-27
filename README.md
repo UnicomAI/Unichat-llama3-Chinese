@@ -123,7 +123,7 @@
 ## 评测
 
 <div align="center">
-  <img src="[https://github.com/******/dbscan_clustering_algorithm/blob/master/data/DBSCAN.png](https://github.com/UnicomAI/Unichat-llama3-Chinese/blob/main/eval.png)">
+  <img src="[[eval.png](https://github.com/UnicomAI/Unichat-llama3-Chinese/blob/main/eval.png))">
 </div>
 
 ## 快速开始
