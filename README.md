@@ -123,7 +123,7 @@
 ## 评测
 
 <div align="center">
-  <img src="[[eval.png](https://github.com/UnicomAI/Unichat-llama3-Chinese/blob/main/eval.png))">
+  <img src="[[eval.png](eval.png)">
 </div>
 
 ## 快速开始
