@@ -126,7 +126,7 @@
   <img src="https://github.com/UnicomAI/Unichat-llama3-Chinese/blob/f91e9b65c99867f9b42bd4480132d1f622e433a2/eval.png">
 </div>
 
-* 加入中文微调后，基础问答、写作、安全与价值观都有了一定提升
+* 加入中文微调后，基础问答、文章写作、安全与价值观都有了一定提升
   <br>
   
 ## 快速开始  
