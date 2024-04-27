@@ -120,6 +120,12 @@
 * torch==2.0.1
 * CUDA 11.7
 
+## 评测
+
+<div align="center">
+  <img src="[https://github.com/******/dbscan_clustering_algorithm/blob/master/data/DBSCAN.png](https://github.com/UnicomAI/Unichat-llama3-Chinese/blob/main/eval.png)">
+</div>
+
 ## 快速开始
 
 1. 下载模型[UnicomLLM/Unichat-llama3-Chinese-8B](https://huggingface.co/UnicomLLM/Unichat-llama3-Chinese-8B)
