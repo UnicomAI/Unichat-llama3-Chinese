@@ -129,6 +129,8 @@
 * 加入中文微调后，基础问答、写作、安全与价值观都有了一定提升
   <br>
   
+## 快速开始  
+
 1. 下载模型[UnicomLLM/Unichat-llama3-Chinese-8B](https://huggingface.co/UnicomLLM/Unichat-llama3-Chinese-8B)
 
 2. 环境安装
