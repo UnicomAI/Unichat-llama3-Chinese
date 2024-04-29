@@ -186,6 +186,14 @@ python3 inference.py
 ## 模型微调
 可使用以下框架, 对模型进行SFT, LoRA, DPO, PPO等方式的微调
 - [Llama-Factory](https://github.com/hiyouga/LLaMA-Factory)
+  对话模板：
+  _register_template(
+name="llama3-unichat",
+format_user=StringFormatter(slots=["Human:{{content}}\nAssistant:"]),
+format_assistant=StringFormatter(slots=["{{content}}< end_of_text >"]),
+format_system=StringFormatter(slots=["< begin_of_text >{{content}}"]),
+default_system="A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions.\n"
+)
 - [Axolotl](https://github.com/OpenAccess-AI-Collective/axolotl)
 
 ## 其他版本中文llama3
