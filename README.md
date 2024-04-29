@@ -18,7 +18,7 @@
 * 支持长度64K版本将于后续发布
 * 陆续发布700亿参数中文微调版本，长文本版本和加入中文二次预训练版
 * 基础模型 [**Meta-Llama-3-8B**](https://huggingface.co/meta-llama/Meta-Llama-3-8B)
-  
+* 非官方模板，参考tokenizer_config.json.llamafactory模板在下面
 
 ### 📊 数据
 - 高质量指令数据，覆盖多个领域和行业，为模型训练提供充足的数据支持
@@ -186,14 +186,15 @@ python3 inference.py
 ## 模型微调
 可使用以下框架, 对模型进行SFT, LoRA, DPO, PPO等方式的微调
 - [Llama-Factory](https://github.com/hiyouga/LLaMA-Factory)
+
   对话模板：
   _register_template(
-name="llama3-unichat",
-format_user=StringFormatter(slots=["Human:{{content}}\nAssistant:"]),
-format_assistant=StringFormatter(slots=["{{content}}< end_of_text >"]),
-format_system=StringFormatter(slots=["< begin_of_text >{{content}}"]),
-default_system="A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions.\n"
-)
+         name="llama3-unichat",
+         format_user=StringFormatter(slots=["Human:{{content}}\nAssistant:"]),
+         format_assistant=StringFormatter(slots=["{{content}}< end_of_text >"]),
+         format_system=StringFormatter(slots=["< begin_of_text >{{content}}"]),
+         default_system="A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions.\n"
+         )
 - [Axolotl](https://github.com/OpenAccess-AI-Collective/axolotl)
 
 ## 其他版本中文llama3
