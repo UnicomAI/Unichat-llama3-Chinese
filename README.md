@@ -179,7 +179,8 @@ python3 inference.py
 - [vllm](https://github.com/vllm-project/vllm) 
 - [sglang](https://github.com/sgl-project/sglang) 
 - [text-generation-inference](https://github.com/huggingface/text-generation-inference)
-
+## Ollama
+-https://ollama.com/ollam/unichat-llama3-chinese-8b
 
 ## 模型微调
 可使用以下框架, 对模型进行SFT, LoRA, DPO, PPO等方式的微调
