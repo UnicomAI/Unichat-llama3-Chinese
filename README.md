@@ -185,6 +185,8 @@ python3 inference.py
 - [Llama-Factory](https://github.com/hiyouga/LLaMA-Factory)
 - [Axolotl](https://github.com/OpenAccess-AI-Collective/axolotl)
 
+##技术探讨与交流
+QQ群：635964480
 
 
 
