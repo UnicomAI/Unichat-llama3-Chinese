@@ -132,7 +132,7 @@
   
 ## 快速开始  
 
-1. 下载模型,参考模型下载地址，国内建议ModelScope或WiseModel
+1. 下载模型(参考模型下载地址，国内建议ModelScope或WiseModel)
 
 2. 环境安装
 
