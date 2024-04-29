@@ -195,9 +195,9 @@ python3 inference.py
   
          format_user=StringFormatter(slots=["Human:{{content}}\nAssistant:"]),
   
-         format_assistant=StringFormatter(slots=["{{content}}< end_of_text >"]),
+         format_assistant=StringFormatter(slots=["{{content}}<|end_of_text|>"]),
   
-         format_system=StringFormatter(slots=["< begin_of_text >{{content}}"]),
+         format_system=StringFormatter(slots=["<|begin_of_text|>{{content}}"]),
   
          default_system="A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions.\n"
   
