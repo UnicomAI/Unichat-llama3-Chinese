@@ -123,7 +123,7 @@
 ## 自主评测
 
 <div align="center">
-  <img src="https://github.com/UnicomAI/Unichat-llama3-Chinese/blob/f91e9b65c99867f9b42bd4480132d1f622e433a2/eval.png">
+  <img src="assets/eval.png">
 </div>
 
 * 加入中文微调后，基础问答、文章写作、安全与价值观都有了一定提升
@@ -150,10 +150,11 @@ python3 inference.py
 ### Llama3中文模型
 | 模型名称                     | 模型加载名称             | 下载地址                                                     |
 |--------------------------| ------------------------- | --------------------- |
-| Unichat-llama3-Chinese-8B | UnicomLLM/Unichat-llama3-Chinese-8B  | [HuggingFace](https://huggingface.co/UnicomLLM/Unichat-llama3-Chinese-8B)  |
+| Unichat-llama3-Chinese-8B | UnicomLLM/Unichat-llama3-Chinese-8B  | [HuggingFace](https://huggingface.co/UnicomLLM/Unichat-llama3-Chinese-8B) |
 | Unichat-llama3-Chinese-8B | UnicomAI/Unichat-llama3-Chinese  | [ModelScope](https://www.modelscope.cn/models/UnicomAI/Unichat-llama3-Chinese/) |
-| Unichat-llama3-Chinese-8B-28K | UnicomAI/Unichat-llama3-Chinese-8B-28K |  [ModelScope](https://www.modelscope.cn/models/UnicomAI/Unichat-llama3-Chinese-8B-28K/)|
 | Unichat-llama3-Chinese-8B | UnicomAI/Unichat-llama3-Chinese-8B |  [WiseModel](https://www.wisemodel.cn/models/UnicomAI/Unichat-llama3-Chinese-8B)|
+| Unichat-llama3-Chinese-8B-28K | UnicomLLM/Unichat-llama3-Chinese-8B-28K  | [HuggingFace](https://huggingface.co/UnicomLLM/Unichat-llama3-Chinese-8B-28K) |
+| Unichat-llama3-Chinese-8B-28K | UnicomAI/Unichat-llama3-Chinese-8B-28K |  [ModelScope](https://www.modelscope.cn/models/UnicomAI/Unichat-llama3-Chinese-8B-28K/)|
 | Unichat-llama3-Chinese-8B-28K | UnicomLLM/Unichat-llama3-Chinese-8B-28K |  [WiseModel](https://www.wisemodel.cn/models/UnicomLLM/Unichat-llama3-Chinese-8B-28K/)|
 
 
