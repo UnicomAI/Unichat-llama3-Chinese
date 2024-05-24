@@ -158,7 +158,7 @@ python3 inference.py
 | Unichat-llama3-Chinese-8B-28K | UnicomLLM/Unichat-llama3-Chinese-8B-28K  | [HuggingFace](https://huggingface.co/UnicomLLM/Unichat-llama3-Chinese-8B-28K) |
 | Unichat-llama3-Chinese-8B-28K | UnicomAI/Unichat-llama3-Chinese-8B-28K |  [ModelScope](https://www.modelscope.cn/models/UnicomAI/Unichat-llama3-Chinese-8B-28K/)|
 | Unichat-llama3-Chinese-8B-28K | UnicomLLM/Unichat-llama3-Chinese-8B-28K |  [WiseModel](https://www.wisemodel.cn/models/UnicomLLM/Unichat-llama3-Chinese-8B-28K/)|
-| Unichat-llama3-Chinese-70B | UnicomAI/Unichat-llama3-Chinese-8B-28K |  [ModelScope](https://www.modelscope.cn/models/UnicomAI/Unichat-llama3-Chinese-70B/summary)|
+| Unichat-llama3-Chinese-70B | UnicomAI/Unichat-llama3-Chinese-70B |  [ModelScope](https://www.modelscope.cn/models/UnicomAI/Unichat-llama3-Chinese-70B/summary)|
 
 ### Llama3官方模型
 
