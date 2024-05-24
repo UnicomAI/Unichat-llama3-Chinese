@@ -12,11 +12,12 @@
 
 
 ## 介绍
+* 中国联通AI创新中心发布llama3 700亿参数中文微调版本中文指令微调模型，对话模板为llama3官方模板
 * 中国联通AI创新中心发布业界第一个llama3中文指令微调模型长文本版本，支持28K上下文输入，2024年4月26日19点
 * 中国联通AI创新中心发布业界第一个llama3中文指令微调模型，模型上下文保持原生长度8K，2024年4月19日22点
 * 本模型以[**Meta Llama 3**](https://huggingface.co/collections/meta-llama/meta-llama-3-66214712577ca38149ebb2b6)为基础,增加中文数据进行训练,实现llama3模型高质量中文问答
 * 支持长度64K版本将于后续发布
-* 陆续发布700亿参数中文微调版本，长文本版本和加入中文二次预训练版
+* 长文本版本和加入中文二次预训练版
 * 基础模型 [**Meta-Llama-3-8B**](https://huggingface.co/meta-llama/Meta-Llama-3-8B)
 * 非官方模板，参考tokenizer_config.json。llamafactory模板参考模型微调
 
@@ -157,7 +158,7 @@ python3 inference.py
 | Unichat-llama3-Chinese-8B-28K | UnicomLLM/Unichat-llama3-Chinese-8B-28K  | [HuggingFace](https://huggingface.co/UnicomLLM/Unichat-llama3-Chinese-8B-28K) |
 | Unichat-llama3-Chinese-8B-28K | UnicomAI/Unichat-llama3-Chinese-8B-28K |  [ModelScope](https://www.modelscope.cn/models/UnicomAI/Unichat-llama3-Chinese-8B-28K/)|
 | Unichat-llama3-Chinese-8B-28K | UnicomLLM/Unichat-llama3-Chinese-8B-28K |  [WiseModel](https://www.wisemodel.cn/models/UnicomLLM/Unichat-llama3-Chinese-8B-28K/)|
-
+| Unichat-llama3-Chinese-70B | UnicomAI/Unichat-llama3-Chinese-8B-28K |  [ModelScope](https://www.modelscope.cn/models/UnicomAI/Unichat-llama3-Chinese-70B/summary)|
 
 ### Llama3官方模型
 
@@ -187,7 +188,7 @@ python3 inference.py
 可使用以下框架, 对模型进行SFT, LoRA, DPO, PPO等方式的微调
 - [Llama-Factory](https://github.com/hiyouga/LLaMA-Factory)
 
-  对话模板：
+  70B为llama3官方模板，8B模型对话模板：
   ```python
   _register_template(
   
