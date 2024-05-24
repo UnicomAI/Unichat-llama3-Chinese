@@ -18,7 +18,7 @@
 * 本模型以[**Meta Llama 3**](https://huggingface.co/collections/meta-llama/meta-llama-3-66214712577ca38149ebb2b6)为基础,增加中文数据进行训练,实现llama3模型高质量中文问答
 * 支持长度64K版本将于后续发布
 * 长文本版本和加入中文二次预训练版
-* 基础模型 [**Meta-Llama-3-8B**](https://huggingface.co/meta-llama/Meta-Llama-3-8B)
+* 基础模型 [**Meta-Llama-3**](https://huggingface.co/meta-llama/)
 * 非官方模板，参考tokenizer_config.json。llamafactory模板参考模型微调
 
 ### 📊 数据
