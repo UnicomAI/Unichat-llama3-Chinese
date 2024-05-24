@@ -19,7 +19,7 @@
 * 支持长度64K版本将于后续发布
 * 长文本版本和加入中文二次预训练版
 * 基础模型 [**Meta-Llama-3**](https://huggingface.co/meta-llama/)
-* 非官方模板，参考tokenizer_config.json。llamafactory模板参考模型微调
+* 8B模型非官方对话模板，参考tokenizer_config.json。llamafactory模板参考模型微调
 
 ### 📊 数据
 - 高质量指令数据，覆盖多个领域和行业，为模型训练提供充足的数据支持
