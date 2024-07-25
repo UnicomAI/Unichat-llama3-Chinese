@@ -12,6 +12,7 @@
 
 
 ## 介绍
+* 中国联通AI创新中心发布llama3.1-8B参数中文微调版本中文指令微调模型
 * 中国联通AI创新中心发布llama3 700亿参数中文微调版本中文指令微调模型，对话模板为llama3官方模板
 * 中国联通AI创新中心发布业界第一个llama3中文指令微调模型长文本版本，支持28K上下文输入，2024年4月26日19点
 * 中国联通AI创新中心发布业界第一个llama3中文指令微调模型，模型上下文保持原生长度8K，2024年4月19日22点
@@ -152,6 +153,7 @@ python3 inference.py
 ### Llama3中文模型
 | 模型名称                     | 模型加载名称             | 下载地址                                                     |
 |--------------------------| ------------------------- | --------------------- |
+| Unichat-llama3.1-Chinese-8B | UnicomAI/Unichat-llama3.1-Chinese-8B |  [ModelScope](https://www.modelscope.cn/models/UnicomAI/Unichat-llama3.1-Chinese-8B)|
 | Unichat-llama3-Chinese-8B | UnicomLLM/Unichat-llama3-Chinese-8B  | [HuggingFace](https://huggingface.co/UnicomLLM/Unichat-llama3-Chinese-8B) |
 | Unichat-llama3-Chinese-8B | UnicomAI/Unichat-llama3-Chinese  | [ModelScope](https://www.modelscope.cn/models/UnicomAI/Unichat-llama3-Chinese/) |
 | Unichat-llama3-Chinese-8B | UnicomAI/Unichat-llama3-Chinese-8B |  [WiseModel](https://www.wisemodel.cn/models/UnicomAI/Unichat-llama3-Chinese-8B)|
@@ -159,6 +161,7 @@ python3 inference.py
 | Unichat-llama3-Chinese-8B-28K | UnicomAI/Unichat-llama3-Chinese-8B-28K |  [ModelScope](https://www.modelscope.cn/models/UnicomAI/Unichat-llama3-Chinese-8B-28K/)|
 | Unichat-llama3-Chinese-8B-28K | UnicomLLM/Unichat-llama3-Chinese-8B-28K |  [WiseModel](https://www.wisemodel.cn/models/UnicomLLM/Unichat-llama3-Chinese-8B-28K/)|
 | Unichat-llama3-Chinese-70B | UnicomAI/Unichat-llama3-Chinese-70B |  [ModelScope](https://www.modelscope.cn/models/UnicomAI/Unichat-llama3-Chinese-70B/summary)|
+
 
 ### Llama3官方模型
 
